@@ -30,6 +30,23 @@
 
 ---
 
+## **📚 Publications & Research**
+
+<div align="center">
+
+[![arXiv Badge](https://img.shields.io/badge/arXiv-2303.02967-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2303.02967)  
+**Revolutionizing Traffic Management with AI-Powered Machine Vision: A Step Toward Smart Cities**  
+**Authors:**
+**Seyed Hossein Hosseini DolatAbadi**
+**Sayyed Mohammad Hossein Hashemi**
+**Mohammad Hosseini**
+**Moein-Aldin AliHosseini**<br>
+📅 March 2023 | 🏷️ Computer Vision, Smart Cities, AI  
+
+</div>
+
+---
+
 ## **📊 GitHub Statistics**
 
 ### **GitHub Stats**
