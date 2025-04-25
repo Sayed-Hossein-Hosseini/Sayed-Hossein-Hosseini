@@ -20,6 +20,18 @@
 
 ---
 
+## **📊 GitHub Statistics**
+
+<div align="center">
+       
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayed-Hossein-Hosseini&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Hossein-Hosseini&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Hossein-Hosseini&layout=compact&theme=radical)
+
+</div>
+
+---
+
 ## **📫 Communications**
 
 [![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:S.Hossein.Hosseini1381@gmail.com)  
@@ -34,7 +46,11 @@
 
 ---
 
+<div align="center">
 
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git)
+
+</div>
 
 <!--
 **Sayed-Hossein-Hosseini/Sayed-Hossein-Hosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
