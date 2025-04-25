@@ -20,6 +20,16 @@
 
 ---
 
+## **🛠 Skills**
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=github,git,ai,pytorch,tensorflow,opencv,regex,linux,md,arduino,mysql,python,java,cpp,c,vscode,idea,pycharm,html,css,js,linkedin)
+
+</div>
+
+---
+
 ## **📊 GitHub Statistics**
 
 ### **GitHub Stats**
@@ -65,12 +75,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git)
-
-</div>
 
 <!--
 **Sayed-Hossein-Hosseini/Sayed-Hossein-Hosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
