@@ -22,13 +22,14 @@
 
 ## **📫 Communications**
 
-[![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:youremail@example.com)  
+[![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:S.Hossein.Hosseini1381@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-My_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-programmer)   
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-My_Profile-gold?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=lDlEqDoAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-My_Profile-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Seyed-Hossein-Hosseini-Dolatabadi)
-[![Academia](https://img.shields.io/badge/Academia.edu-My_Profile-yellow?style=for-the-badge&logo=academia&logoColor=white)](https://www.academia.edu/your-profile-link)  
+[![Academia](https://img.shields.io/badge/Academia.edu-My_Profile-yellow?style=for-the-badge&logo=academia&logoColor=white)](https://ui-ir.academia.edu/SeyedHosseinHosseiniDolatAbadi)  
 [![OCRID](https://img.shields.io/badge/OCRID-My_Profile-pink?style=for-the-badge&logo=generic&logoColor=white)](https://orcid.org/0009-0005-1955-8615) 
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-My_Profile-FF6F20?style=for-the-badge&logo=huggingface&logoColor=yellow)](https://huggingface.co/your_username)  
+[![CIVILICA](https://img.shields.io/badge/CIVILICA-My_Profil-Indigo?style=for-the-badge&logo=bookstack&logoColor=white)](https://civilica.com/search/paper/n-Seyed_Hossein_Hosseini_DolatAbadi)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-My_Profile-FF6F20?style=for-the-badge&logo=huggingface&logoColor=yellow)](https://huggingface.co/Hossein-Programmer)  
 
 ---
 
