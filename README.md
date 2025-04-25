@@ -58,6 +58,23 @@
 
 ---
 
+## **🏢 Organizations**
+
+<div align="center">
+       
+[![UIDS](https://img.shields.io/badge/UIDS4011--01-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UIDS4011-01)
+[![UIDS](https://img.shields.io/badge/losgorriones-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/losgorriones)
+[![UIDS](https://img.shields.io/badge/UIAI--4021-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UIAI-4021)
+[![UIDS](https://img.shields.io/badge/UIAD4022--01-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UIAD4022-01)
+[![UIDS](https://img.shields.io/badge/UIAD4022--03-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UIAD4022-03)
+[![UIDS](https://img.shields.io/badge/UIDS4031-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UIDS4031)
+[![UIDS](https://img.shields.io/badge/AITC--trafic--density-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AITC-trafic-density)
+[![UIDS](https://img.shields.io/badge/UIENS4032-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UIENS4032)
+       
+</div>
+
+---
+
 ## **📫 Communications**
 
 <div align="center">
