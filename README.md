@@ -34,14 +34,14 @@
 
 <div align="center">
 
-[![arXiv Badge](https://img.shields.io/badge/arXiv-2303.02967-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2303.02967)  
-**Revolutionizing Traffic Management with AI-Powered Machine Vision: A Step Toward Smart Cities**  
-**Authors:**
-**Seyed Hossein Hosseini DolatAbadi**
-**Sayyed Mohammad Hossein Hashemi**
-**Mohammad Hosseini**
-**Moein-Aldin AliHosseini**<br>
-📅 March 2023 | 🏷️ Computer Vision, Smart Cities, AI  
+[![arXiv Badge](https://img.shields.io/badge/arXiv-2303.02967-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2303.02967)  <br><br>
+**Revolutionizing Traffic Management with AI-Powered Machine Vision: A Step Toward Smart Cities**  <br><br>
+**Authors:** <br>
+Seyed Hossein Hosseini DolatAbadi <br>
+Sayyed Mohammad Hossein Hashemi <br>
+Mohammad Hosseini <br>
+Moein-Aldin AliHosseini <br><br>
+📅 February 2025 | 🏷️ Computer Vision, Smart Cities, AI  
 
 </div>
 
