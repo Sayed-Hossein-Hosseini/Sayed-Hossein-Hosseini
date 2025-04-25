@@ -114,7 +114,8 @@ Moein-Aldin AliHosseini <br><br>
 
 <div align="center">
 
-### 👉 I will either find a way or make one. So instead of fighting, let's build our own playground. 👈
+### 👉 I will either find a way or make one. 👈 
+### 👉 So instead of fighting, let's build our own playground. 👈
 
 </div>
 
