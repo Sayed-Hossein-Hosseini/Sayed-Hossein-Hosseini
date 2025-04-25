@@ -50,6 +50,8 @@
 
 ## **📫 Communications**
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:S.Hossein.Hosseini1381@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-My_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hossein_programmer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-My_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-programmer)   
@@ -59,6 +61,8 @@
 [![OCRID](https://img.shields.io/badge/OCRID-My_Profile-pink?style=for-the-badge&logo=generic&logoColor=white)](https://orcid.org/0009-0005-1955-8615) 
 [![CIVILICA](https://img.shields.io/badge/CIVILICA-My_Profile-purple?style=for-the-badge&logo=bookstack&logoColor=white)](https://civilica.com/search/paper/n-Seyed_Hossein_Hosseini_DolatAbadi)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-My_Profile-FF6F20?style=for-the-badge&logo=huggingface&logoColor=yellow)](https://huggingface.co/Hossein-Programmer)  
+
+</div>
 
 ---
 
