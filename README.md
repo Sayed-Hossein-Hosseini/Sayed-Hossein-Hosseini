@@ -22,10 +22,26 @@
 
 ## **📊 GitHub Statistics**
 
+### **GitHub Stats**
+
 <div align="center">
        
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayed-Hossein-Hosseini&show_icons=true&theme=radical)
+
+</div>
+
+### **GitHub Streak**
+
+<div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Hossein-Hosseini&theme=tokyonight)
+
+</div>
+
+### **Top Languages**
+
+<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Hossein-Hosseini&layout=compact&theme=radical)
 
 </div>
