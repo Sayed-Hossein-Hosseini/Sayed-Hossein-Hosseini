@@ -24,7 +24,7 @@
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=github,git,ai,pytorch,tensorflow,opencv,regex,linux,md,arduino,mysql,python,java,cpp,c,vscode,idea,pycharm,html,css,js,linkedin)
+![Skills](https://skillicons.dev/icons?i=github,git,ai,pytorch,tensorflow,opencv,sklearn,regex,linux,md,arduino,mysql,python,java,cpp,c,vscode,idea,pycharm,html,css,js,linkedin)
 
 </div>
 
