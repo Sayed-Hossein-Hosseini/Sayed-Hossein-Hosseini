@@ -86,7 +86,7 @@ Moein-Aldin AliHosseini <br><br>
 [![UIDS](https://img.shields.io/badge/UIAD4022--03-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UIAD4022-03)
 [![UIDS](https://img.shields.io/badge/UIDS4031-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UIDS4031)
 [![UIDS](https://img.shields.io/badge/AITC--trafic--density-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AITC-trafic-density)
-[![UIDS](https://img.shields.io/badge/UIENS4032-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UIENS4032)
+[![UIDS](https://img.shields.io/badge/UICNS4032-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UICNS4032)
        
 </div>
 
