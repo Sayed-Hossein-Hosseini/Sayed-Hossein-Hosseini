@@ -48,34 +48,32 @@ Moein-Aldin AliHosseini <br><br>
 ---
 
 
+
+
+
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Sayed-Hossein-Hosseini&show_icons=true&theme=tokyonight&hide_border=true"
-          alt="GitHub Stats"
-        />
-      </td>
-      <td align="center" width="33%">
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Hossein-Hosseini&theme=tokyonight&hide_border=true"
-          alt="GitHub Streak"
-        />
-      </td>
-      <td align="center" width="33%">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Hossein-Hosseini&layout=compact&theme=tokyonight&hide_border=true"
-          alt="Top Languages"
-        />
-      </td>
-    </tr>
-  </table>
+
+<table style="border: none; border-collapse: collapse; background-color: transparent;">
+  <tr>
+    <td align="center" width="50%" style="border: none; padding: 4px; background-color: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sayed-Hossein-Hosseini&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%" style="border: none; padding: 4px; background-color: transparent;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Hossein-Hosseini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none; padding: 4px; background-color: #ffffff;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Hossein-Hosseini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
----
+
 
 ## **🏢 Organizations**
 
