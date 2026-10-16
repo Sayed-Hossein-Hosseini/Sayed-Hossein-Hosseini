@@ -100,8 +100,7 @@ Publication details and research statuses will be updated as the work progresses
 ## 💻 Academic & Extracurricular Activities
 
 - **AI & Deep Learning Research:** Research activities in artificial intelligence, deep learning, and reliable AI.
-- **International Research Internship — United States:** International research experience. Further details can be added to reflect the host institution, official role, and research focus.
-- **International Research Internship (LLMs & Reliable AI):** Research activities focused on Large Language Models and reliable AI.
+- **International Research Internship (LLMs & Reliable AI) — United States:** Research activities focused on Large Language Models and reliable AI.
 - **Head Teaching Assistant:** Coordinated teaching assistance across eight core Computer Science courses.
 - **Chair, Cryptology Student Branch:** Leadership and coordination of student activities in cryptology.
 - **Faculty Internationalization Committee:** Participation in faculty-level internationalization initiatives and governance.
