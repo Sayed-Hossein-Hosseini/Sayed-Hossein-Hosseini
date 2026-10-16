@@ -47,30 +47,32 @@ Moein-Aldin AliHosseini <br><br>
 
 ---
 
-## **📊 GitHub Statistics**
 
-### **GitHub Stats**
-
-<div align="center">
-       
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayed-Hossein-Hosseini&show_icons=true&theme=radical)
-
-</div>
-
-### **GitHub Streak**
+## 📊 GitHub Statistics
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Hossein-Hosseini&theme=tokyonight)
-
-</div>
-
-### **Top Languages**
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Hossein-Hosseini&layout=compact&theme=radical)
-
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Sayed-Hossein-Hosseini&show_icons=true&theme=tokyonight&hide_border=true"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td align="center" width="33%">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=Sayed-Hossein-Hosseini&theme=tokyonight&hide_border=true"
+          alt="GitHub Streak"
+        />
+      </td>
+      <td align="center" width="33%">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayed-Hossein-Hosseini&layout=compact&theme=tokyonight&hide_border=true"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
