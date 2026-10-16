@@ -4,7 +4,7 @@
 
 ---
 
-## **♟️Position and Status**
+## **♟️Profile**
 
 <div align="center">
 
@@ -58,9 +58,12 @@ Some of my research and development projects are maintained in private repositor
 
 ## 📚 Research & Publications
 
-### Published & Accepted
+### Published  
 
 - [**Revolutionizing Traffic Management with AI-Powered Machine Vision: A Step Toward Smart Cities**](https://arxiv.org/abs/2503.02967) — Published in the *2025 1st Biennial National Conference on the Application of Artificial Intelligence in Traffic Control Focused on Urban and Road Management (AITC)*.
+
+### Accepted
+
 - **Modeling and Prediction of Hand Grasp Kinematic Synergies Using EMG Signal and NARX Network** — Accepted at the *33rd National and 11th International Biomedical Engineering Conference (ICBME 2026)*.
 
 ### Under Review
@@ -80,6 +83,7 @@ Publication details and research statuses will be updated as the work progresses
 
 ## 🛠 Technical Skills
 
+- **AI/ML:** PyTorch, TensorFlow, scikit-learn
 - **Machine Learning & Deep Learning:** Neural Networks, Model Evaluation, Feature Selection
 - **Computer Vision:** CNNs, Image Processing, Object Detection
 - **Natural Language Processing:** Text Classification, Word Embeddings, Financial NLP
@@ -151,7 +155,7 @@ Publication details and research statuses will be updated as the work progresses
 
 ---
 
-## **📫 Communications**
+## **📫 Contact**
 
 <div align="center">
 
